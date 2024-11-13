@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Air Quality Alert System</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_authentication">Authentication</string>
+    <string name="broker_address">Broker Address</string>
+    <string name="notifications">Notifications</string>
+    <string name="username">Username</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="password">Password</string>
+    <string name="mqtt_subscriptions">MQTT Subscriptions</string>
+    <string name="topic">Topic</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="title">Title</string>
+    <string name="number">Number</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="item_details">Item details</string>
+    <string name="item_index">Item Index</string>
+
+    <string name="dash">-</string>
+    <string name="_3m">3M</string>
+    <string name="_1m">1M</string>
+    <string name="_1d">1D</string>
+    <string name="_1h">1H</string>
+</resources>
